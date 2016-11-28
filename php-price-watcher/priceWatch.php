@@ -1,8 +1,5 @@
 
 <?php
-//Name: Sai Anirudh Sripati
-//ID:10382761
-//ASL Major Assignment
 
 error_reporting(0);
 require 'simple_html_dom.php';
